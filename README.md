@@ -9,7 +9,7 @@
   </div>
  
  <h1>
-  Hey there, I am Kuwuamenu Kofi Gabriel
+  Hey there, Welcome to my space
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&height=60&lines=App+development+with+Flutter;IoT+and+Embedded+systems+;PCB+design+with+KiCAD;3D+modeling+with+Fusion+360" alt="Typing SVG" /></a></div>
@@ -35,6 +35,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" >
+<a href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+
 
 <!--
 **Carlysberg/Carlysberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
