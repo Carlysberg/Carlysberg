@@ -15,8 +15,11 @@
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&height=60&lines=App+development+with+Flutter;IoT+and+Embedded+systems+;PCB+design+with+KiCAD;3D+modeling+with+Fusion+360" alt="Typing SVG" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" >
+
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Andriod_Studio" alt="Andriod_Studio" width="40" height="40"/>&nbsp;
