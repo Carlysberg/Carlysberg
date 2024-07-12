@@ -30,7 +30,8 @@
  
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" >
- <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="40" height="40"/>&nbsp; <h2>Github Stats</h2> 
+
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlysberg&theme=algolia&background=000000)](https://git.io/streak-stats)
 
